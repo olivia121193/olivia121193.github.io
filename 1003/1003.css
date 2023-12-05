@@ -1,0 +1,18 @@
+@charset "utf-8";
+.main {
+    background-color: hsla(359,100%,80%,1.00);
+    width: 300px;
+    height: 150px;
+}
+.myphtot {
+    background-color: rgba(255,238,154,1.00);
+    width: 100px;
+    height: 150px;
+    float: left;
+}
+.mytext {
+    background-color: hsla(118,100%,80%,1.00);
+    width: 200px;
+    height: 150px;
+    float: right;
+}
